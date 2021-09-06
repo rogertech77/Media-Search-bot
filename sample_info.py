@@ -23,10 +23,10 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Habari, kalibu SHULE LIBRARY**
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+Hapa utapata nafasi ya kupakua vitabu,past papers,notes mbalimbali na pia utapata kujifunza vitu mbalimbali kupitia video. Chakufanya gusa buttons zifuatazo na Anza kutafuta utakacho.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+INVITE_MSG = 'Tafadhari jiunge @.... Ili upate nafasi ya kujipatia vitabu,past papers, notes na video Kwa wanafunzi wote kuanzia darasa la Kwanza mbaka kidato cha sita'
